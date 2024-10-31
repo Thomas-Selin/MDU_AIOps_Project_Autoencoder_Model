@@ -1,0 +1,7 @@
+splunklib
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+tensorflow
