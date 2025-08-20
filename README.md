@@ -1,4 +1,4 @@
-# Report and code by Thomas Selin for project 2 in the university course `Multivariate data analysis in engineering` at `Mälardalens University`
+# Report and code by Thomas Selin for project 2 in the university course `Multivariate data analysis in engineering` at `Mälardalens University` year 2024
 
 An autoencoder machine learning model for anomaly detection in an IT service component (microservice) was created.
 
